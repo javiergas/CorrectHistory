@@ -1,0 +1,13 @@
+C:\Users\Jergas\Documents\GitHub\CorrectHistory\CorrectHistory\CorrectHistory\bin\Debug\CorrectHistory.dll
+C:\Users\Jergas\Documents\GitHub\CorrectHistory\CorrectHistory\CorrectHistory\bin\Debug\CorrectHistory.pdb
+C:\Users\Jergas\Documents\GitHub\CorrectHistory\CorrectHistory\CorrectHistory\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Jergas\Documents\GitHub\CorrectHistory\CorrectHistory\CorrectHistory\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Jergas\Documents\GitHub\CorrectHistory\CorrectHistory\CorrectHistory\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Jergas\Documents\GitHub\CorrectHistory\CorrectHistory\CorrectHistory\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Jergas\Documents\GitHub\CorrectHistory\CorrectHistory\CorrectHistory\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Jergas\Documents\GitHub\CorrectHistory\CorrectHistory\CorrectHistory\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Jergas\Documents\GitHub\CorrectHistory\CorrectHistory\CorrectHistory\obj\Debug\CorrectHistory.csprojAssemblyReference.cache
+C:\Users\Jergas\Documents\GitHub\CorrectHistory\CorrectHistory\CorrectHistory\obj\Debug\CorrectHistory.csproj.CoreCompileInputs.cache
+C:\Users\Jergas\Documents\GitHub\CorrectHistory\CorrectHistory\CorrectHistory\obj\Debug\CorrectHistory.csproj.CopyComplete
+C:\Users\Jergas\Documents\GitHub\CorrectHistory\CorrectHistory\CorrectHistory\obj\Debug\CorrectHistory.dll
+C:\Users\Jergas\Documents\GitHub\CorrectHistory\CorrectHistory\CorrectHistory\obj\Debug\CorrectHistory.pdb
